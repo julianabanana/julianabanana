@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a professional transitioning towards **Technology Management**, **Enterprise IT Infrastructure**, **Business Analysis**, **Systems Architecture**, and **Project Management**. With a technical foundation in backend development and data analysis, I bridge the gap between business goals and technical execution to design and manage scalable, high-impact enterprise solutions.
+I'm a professional transitioning towards **Technology Management**, **Enterprise IT Infrastructure**, **Business Analysis**, **Systems Architecture**, and **Project Management**. With a solid technical foundation in backend development and data analysis, I bridge the gap between business strategies and scalable, high-impact enterprise solutions.
 
 ---
 
@@ -32,14 +32,16 @@ I'm a professional transitioning towards **Technology Management**, **Enterprise
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianabanana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<!-- Si despliegas tu propia instancia en Vercel, reemplaza "github-readme-stats.vercel.app" por la URL de tu proyecto en Vercel -->
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Julianabanana&show_icons=true&theme=radical&cache_seconds=86400" alt="Julianabanana's GitHub Stats" height="170" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianabanana&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" height="170" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianabanana&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 ---
 
 ## 🔧 Current Focus
