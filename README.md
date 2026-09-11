@@ -32,15 +32,10 @@ I'm a professional transitioning towards **Technology Management**, **Enterprise
 
 ## 📊 GitHub Stats
 
-<!-- Si despliegas tu propia instancia en Vercel, reemplaza "github-readme-stats.vercel.app" por la URL de tu proyecto en Vercel -->
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Julianabanana&show_icons=true&theme=radical&cache_seconds=86400" alt="Julianabanana's GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianabanana&layout=compact&theme=radical&cache_seconds=86400" alt="Top Languages" height="170" />
-  </a>
-</p>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianabanana&theme=bear" width=750  alt="stats graph"/>
+
+</div>
 
 ---
 
