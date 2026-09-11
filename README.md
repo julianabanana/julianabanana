@@ -52,7 +52,7 @@ I'm a professional transitioning towards **Technology Management**, **Enterprise
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-parra-03p)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juparraca@unal.edu.co)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://julianaparra.work)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=pink)](https://julianaparra.work)
 ---
 
 ![me](https://github.com/julianabanana/julianabanana/blob/main/cat.gif)
