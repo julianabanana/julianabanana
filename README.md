@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a professional transitioning towards **Technology Management**, **Enterprise IT Infrastructure**, **Business Analysis**, **Systems Architecture**, and **Project Management**. With a solid technical foundation in backend development and data analysis, I bridge the gap between business strategies and scalable, high-impact enterprise solutions.
+I'm a professional transitioning towards **Technology Management**, **Enterprise IT Infrastructure**, **Business Analysis**, **Systems Architecture**, and **Project Management**. With a technical foundation in backend development and data analysis, I bridge the gap between business goals and technical execution to design and manage scalable, high-impact enterprise solutions.
 
 ---
 
@@ -32,10 +32,10 @@ I'm a professional transitioning towards **Technology Management**, **Enterprise
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=julianabanana&theme=bear" width=750  alt="stats graph"/>
-
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Julianabanana&show_icons=true&theme=radical" alt="Julianabanana's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianabanana&layout=compact&theme=radical" alt="Top Languages" height="170" />
+</p>
 
 ---
 
@@ -52,7 +52,7 @@ I'm a professional transitioning towards **Technology Management**, **Enterprise
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-parra-03p)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juparraca@unal.edu.co)
-
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white)](https://julianaparra.work)
 ---
 
 ![me](https://github.com/julianabanana/julianabanana/blob/main/cat.gif)
