@@ -32,11 +32,14 @@ I'm a professional transitioning towards **Technology Management**, **Enterprise
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julianabanana&show_icons=true&theme=radical" alt="Julianabanana's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianabanana&layout=compact&theme=radical" alt="Top Languages" height="170" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=julianabanana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianabanana&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 🔧 Current Focus
