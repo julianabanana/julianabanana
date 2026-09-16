@@ -32,9 +32,11 @@ I'm a professional transitioning towards **Technology Management**, **Enterprise
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julianabanana&show_icons=true&theme=radical" alt="Julianabanana's GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianabanana&layout=compact&theme=radical" alt="Top Languages" height="170" />
+<p align="center">
+<a href="https://github.com/julianabanana">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julianabanana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julianabanana&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ---
