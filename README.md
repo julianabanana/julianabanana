@@ -54,7 +54,7 @@ I bridge the gap between business goals and technical execution to design and ma
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-parra-03p)
 [![Email](https://img.shields.io/badge/Email-D8A7B1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juparraca@unal.edu.co)
-[![Website](https://img.shields.io/badge/Website-E5989B?style=for-the-badge&logo=firefox&logoColor=white)](https://julianaparra.work)
+[![Website](https://img.shields.io/badge/Website-E5989B?style=for-the-badge&logo=firefox&logoColor=white)](https://www.julianaparra.work)
 
 ---
 
