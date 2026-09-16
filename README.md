@@ -1,66 +1,73 @@
-# Hello, I'm Juli! 👋
+<div align="center">
 
-## 🚀 About Me
+# 🌸 Hello, I'm Juli! 👋
 
-I'm a professional transitioning towards **Technology Management**, **Enterprise IT Infrastructure**, **Business Analysis**, **Systems Architecture**, and **Project Management**. With a technical foundation in backend development and data analysis, I bridge the gap between business goals and technical execution to design and manage scalable, high-impact enterprise solutions.
+### **Technology Management | Systems Architecture | Business Analysis**
 
----
-
-## 💻 Skills & Focus Areas
-
-### 🏛️ **Management & Strategy**
-![IT Management](https://img.shields.io/badge/IT_Management-4B0082?style=for-the-badge)
-![Enterprise Infrastructure](https://img.shields.io/badge/Enterprise_Infrastructure-008080?style=for-the-badge)
-![Business Analysis](https://img.shields.io/badge/Business_Analysis-FF8C00?style=for-the-badge)
-![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-4682B4?style=for-the-badge)
-![Project Management](https://img.shields.io/badge/Project_Management-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### 🛠️ **Technical & Development Stack**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-009688?style=for-the-badge)
-![API Development](https://img.shields.io/badge/API_Development-FF6C37?style=for-the-badge)
-
-### 📊 **Data & Analytics**
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-00758F?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-8A2BE2?style=for-the-badge)
+I bridge the gap between business goals and technical execution to design and manage scalable, high-impact enterprise solutions.
 
 ---
 
-## 📊 GitHub Stats
+### 💻 Skills & Focus Areas
 
-<p align="center">
+#### 🏛️ **Management & Strategy**
+![IT Management](https://img.shields.io/badge/IT_Management-F8C8DC?style=for-the-badge&logoColor=333333)
+![Enterprise Infrastructure](https://img.shields.io/badge/Enterprise_Infrastructure-E8A0BF?style=for-the-badge&logoColor=white)
+![Business Analysis](https://img.shields.io/badge/Business_Analysis-D8A7B1?style=for-the-badge&logoColor=white)
+![Systems Architecture](https://img.shields.io/badge/Systems_Architecture-E5989B?style=for-the-badge&logoColor=white)
+![Project Management](https://img.shields.io/badge/Project_Management-FFB5A7?style=for-the-badge&logo=jira&logoColor=white)
+
+#### 🛠️ **Technical & Development Stack**
+![Java](https://img.shields.io/badge/Java-F8C8DC?style=for-the-badge&logo=java&logoColor=333333)
+![Python](https://img.shields.io/badge/Python-E8A0BF?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-D8A7B1?style=for-the-badge&logo=go&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-E5989B?style=for-the-badge&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FFB5A7?style=for-the-badge&logoColor=white)
+
+#### 📊 **Data & Analytics**
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-F8C8DC?style=for-the-badge&logoColor=333333)
+![Pandas](https://img.shields.io/badge/Pandas-E8A0BF?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-D8A7B1?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-E5989B?style=for-the-badge&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
 <a href="https://github.com/julianabanana">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julianabanana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julianabanana&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julianabanana&show_icons=true&theme=sakura&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julianabanana&layout=compact&langs_count=8&theme=sakura" />
 </a>
-</p>
 
 ---
 
-## 🔧 Current Focus
+### 🔧 Current Focus
 
-- 🔭 Designing scalable enterprise technology infrastructures and systems architectures.
-- 🌱 Expanding expertise in IT governance, business process analysis, and agile project management.
-- 👯 Looking to collaborate on enterprise architecture, tech management, and strategic IT initiatives.
-- 💬 Ask me about Technology Strategy, Systems Architecture, Business Analysis, and Backend Development.
-
----
-
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-parra-03p)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juparraca@unal.edu.co)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=pink)](https://julianaparra.work)
----
-
-![me](https://github.com/julianabanana/julianabanana/blob/main/cat.gif)
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
+🔭 **Designing** scalable enterprise technology infrastructures and systems architectures  
+🌱 **Expanding** expertise in IT governance, business process analysis, and agile project management  
+👯 **Collaborating** on enterprise architecture, tech management, and strategic IT initiatives  
+💬 **Discussing** Technology Strategy, Systems Architecture, Business Analysis, and Backend Development  
 
 ---
 
-⭐️ From [Julianabanana](https://github.com/Julianabanana)
+### 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E8A0BF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-parra-03p)
+[![Email](https://img.shields.io/badge/Email-D8A7B1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juparraca@unal.edu.co)
+[![Website](https://img.shields.io/badge/Website-E5989B?style=for-the-badge&logo=firefox&logoColor=white)](https://julianaparra.work)
+
+---
+
+<br/>
+
+*"Code is like humor. When you have to explain it, it's bad."*  
+— Cory House
+
+<img src="https://github.com/julianabanana/julianabanana/blob/main/cat.gif" width="180px" alt="cat gif"/>
+
+
+---
+
+⭐️ *Designed by [Julianabanana](https://github.com/Julianabanana)* 🌸
+
+</div>
