@@ -35,8 +35,8 @@ I bridge the gap between business goals and technical execution to design and ma
 ### 📊 GitHub Stats
 
 <a href="https://github.com/julianabanana">
-  <img height="180em" src="./profile/stats.svg" />
-  <img height="180em" src="./profile/top-langs.svg" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=julianabanana&show_icons=true&theme=sakura&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=julianabanana&layout=compact&langs_count=8&theme=sakura" />
 </a>
 
 ---
