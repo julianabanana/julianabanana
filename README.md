@@ -18,10 +18,12 @@ I bridge the gap between business goals and technical execution to design and ma
 ![Project Management](https://img.shields.io/badge/Project_Management-FFB5A7?style=for-the-badge&logo=jira&logoColor=white)
 
 #### 🛠️ **Technical & Development Stack**
-![Java](https://img.shields.io/badge/Java-F8C8DC?style=for-the-badge&logo=java&logoColor=333333)
 ![Python](https://img.shields.io/badge/Python-E8A0BF?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-D8A7B1?style=for-the-badge&logo=go&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-E5989B?style=for-the-badge&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Database Management](https://img.shields.io/badge/Database_Management-FCD5CE?style=for-the-badge&logo=datagrip&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
+![API Development](https://img.shields.io/badge/API_Development-FFB5A7?style=for-the-badge&logoColor=white)
 ![API Development](https://img.shields.io/badge/API_Development-FFB5A7?style=for-the-badge&logoColor=white)
 
 #### 📊 **Data & Analytics**
